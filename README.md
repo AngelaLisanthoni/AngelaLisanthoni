@@ -2,9 +2,9 @@
 
 My name is **Angela lisanthoni** and I'm an undergraduate data science student at UPN "Veteran" East Java.\
 
-I'm interest in data cleaning, data mining, data analytic, data visualization and machine learning. I'm keen into analytical mindset, enabling me to identify trends and patterns in data. I'm experience in translating raw data into insights and providing a machine learning model based on my findings. As it is shown on my college projects, I have a meticulous attention to detail, allowing me to perform comprehensive data cleansing and create a good accuration model. 
+I'm interest in data cleaning, data mining, data analytic, data visualization and machine learning. I'm keen into analytical mindset, enabling me to identify trends and patterns in data. I'm experience in translating raw data into insights and providing a machine learning model based on my findings. As it is shown on my college projects, I have a meticulous attention to detail, allowing me to perform comprehensive data cleansing and create a good accuration model.\ 
 
-If you like to know more about me, follow me in [Linkedin](https://www.linkedin.com/in/angela-lisanthoni/).
+If you like to know more about me, follow me in [Linkedin](https://www.linkedin.com/in/angela-lisanthoni/).\
 
 <p align="left">
 <a href="https://github.com/dimasmds">
